@@ -1,0 +1,6 @@
+framework module NJServiceSDK {
+  umbrella header "NJServiceSDK.h"
+  export *
+
+  module * { export * }
+}
